@@ -5,14 +5,17 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 1. **Closed Venue**
    
    - If a museum or park is closed on that day → replace it with a nearby option of similar type (e.g. gallery, waterfront, indoor conservatory).
+   - If no similar option nearby → suggest a short indoor/outdoor alternative within 15 minutes.
 
 2. **Over-Budget Meal**
    
    - If meal cost > user’s budget → switch to a cheaper restaurant of similar cuisine or a street food (e.g. pre-meal).
+   - If none available → suggest street food or grocery takeaway within 10 minutes.
 
 3. **Too Far or Long Travel**
    
-   - If transfer between activities > 25 min or > 5 km → pick a closer alternative (walk, bus, metro, ride) or add a short transit hop; drop a minor stop.
+   - If transfer between activities > 25 min or > 5 km → pick a closer alternative (walk, bus, metro, ride).
+   - If unavoidable → add a short transit hop and drop a minor stop.
 
 4. **Weather Swap**
    
@@ -21,11 +24,11 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 5. **Time Overrun**
    
-   - If total planned time > available hours → offer a quick snack option instead of full meal or combine two short activities.
+   - If total planned time > available hours → Combine two short activities; Offer a quick snack instead of a full meal; Drop the lowest‑priority minor stop.
 
 6. **Mobility Needs**
    
-   - If mobility limits noted → choose step-free, short-walk options and seating-friendly stops (e.g. cafes, plazas).
+   - If mobility limits noted → choose step-free, short-walk options(<10 mins) and seating-friendly stops (e.g. cafes, plazas).
 
 7. **Dietary Needs**
    
